@@ -1,0 +1,8 @@
+requests
+nltk
+spacy
+scikit-learn
+networkx
+matplotlib
+gensim
+sentence-transformers
